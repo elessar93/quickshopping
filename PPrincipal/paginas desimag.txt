@@ -1,0 +1,6 @@
+PANTALLAS 
+SONY http://store.sony.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=10551&storeId=10151&langId=-1&identifier=S_Televisions&facetlist=true
+LG http://www.lg.com/mx/tv-3d
+SHARP http://www.sharpusa.com/ForHome/HomeEntertainment/LCDTV.aspx
+CANON http://www.usa.canon.com/cusa/home
+NIKON http://imaging.nikon.com/lineup/dslr/
